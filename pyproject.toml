@@ -3,7 +3,8 @@ requires = ["setuptools>=69.0.3", "setuptools_scm>=8.0.4"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "baskerville"
+name = "Baskerville"
+version = "0.1.0" # dynamic versions not released so 
 description = "baskerville"
 authors = [
     {name = "Calico f(DNA)", email = "drk@calicolabs.com"},
